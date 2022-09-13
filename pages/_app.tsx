@@ -1,4 +1,5 @@
 import "uno.css";
+import './style.css'
 import type { AppProps } from "next/app";
 import { Layout } from '../components/layout'
 
